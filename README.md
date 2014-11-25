@@ -65,6 +65,8 @@ end
    
    Then, copy the file to /etc/udev/rules.d/99-dream_cheeky.rules (you probably would 
    need root priviles to copy it).
+4. For button clicking install `xdotool` and checkout its features [here](http://www.semicomplete.com/projects/xdotool/xdotool.xhtml)
+5. Gems `watir-webdriver` and `dream_cheeky`
 
 ## Maintainers
 
